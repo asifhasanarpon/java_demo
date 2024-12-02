@@ -1,2 +1,2 @@
 # java_demo
-Auther-Asif Hasan Arpon
+Author-Asif Hasan Arpon
